@@ -17,6 +17,7 @@ The Classroom-Template repository is intended to serve as a starting point for e
 - 🛠️ **Comprehensive Backend**: Built with Django, featuring RESTful APIs and database models for managing student data.
 - 🎨 **Interactive Frontend**: Developed with React, providing an intuitive user interface for registration and profile management.
 - 📚 **Extensive Documentation**: Includes guides for API usage, system architecture, and deployment processes.
+- 📘 **Course Management**: Supports self-paced and instructor-led courses with roles for students, instructors, staff, and customers.
 
 ---
 
